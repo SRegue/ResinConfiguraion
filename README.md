@@ -4,12 +4,13 @@ This is a repo to share configuration files for any 3D printers and resin
 
 ## Repo folder structure
 
+```
 root
-|
 |-Printer vendor
  |-Printer model
   |-Resin vendor
    |-Configuration file
+```
 
 In building!
 
